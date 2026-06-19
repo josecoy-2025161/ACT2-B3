@@ -15,7 +15,7 @@ menú durante la ejecución.
 -------------------------------------------------------------------------------
 
 ```
-proyecto-iva/
+ACT-B3-José Coy/
 ├── src/
 │   ├── data/
 │   │   └── IvaData.ts       # Datos de ejemplo y ejecución de pruebas
@@ -116,7 +116,7 @@ Desde la carpeta del proyecto, en la terminal:
                    leer datos del teclado).
   - pnpm start   : abre el menú interactivo en la consola.
 
-Si en package.json no existe el script "start", agrégalo dentro de "scripts":
+Si en package.json no existe el script "start", se agrega dentro de "scripts":
 
   "start": "ts-node src/index.ts"
 
