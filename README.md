@@ -1,6 +1,6 @@
-===============================================================================
-  ACTIVIDAD 2 - CÁLCULO DE IVA, SUBTOTAL Y TOTAL CON TYPESCRIPT
-===============================================================================
+-------------------------------------------------------------------------------
+ACTIVIDAD 2 - CÁLCULO DE IVA, SUBTOTAL Y TOTAL CON TYPESCRIPT
+-------------------------------------------------------------------------------
 
 Aplicación de consola que calcula el SUBTOTAL, el IVA y el TOTAL de una compra
 a partir de una lista de montos. Incluye un menú interactivo que se repite en
